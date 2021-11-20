@@ -6,7 +6,8 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Markdown Ciao
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+antani
+
 
 ```markdown
 Syntax highlighted code block
